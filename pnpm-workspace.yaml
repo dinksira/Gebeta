@@ -1,0 +1,7 @@
+packages:
+  - 'engine'
+  - 'app'
+  - 'server'
+
+allowBuilds:
+  esbuild: true
