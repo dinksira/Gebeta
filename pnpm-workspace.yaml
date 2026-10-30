@@ -4,4 +4,6 @@ packages:
   - 'server'
 
 allowBuilds:
+  '@parcel/watcher': false
   esbuild: true
+  unrs-resolver: false
