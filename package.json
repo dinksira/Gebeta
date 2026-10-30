@@ -6,6 +6,7 @@
     "build": "pnpm -r --filter ./engine run build",
     "test": "pnpm -r run test",
     "lint": "eslint \"**/*.{ts,tsx}\"",
+    "play": "pnpm --filter @gebeta/engine play",
     "format": "prettier --write \"**/*.{ts,tsx,json,md}\"",
     "format:check": "prettier --check \"**/*.{ts,tsx,json,md}\"",
     "typecheck": "pnpm -r run typecheck"
