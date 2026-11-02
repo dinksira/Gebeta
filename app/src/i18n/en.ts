@@ -34,8 +34,20 @@ export default {
     leaveBodyLocal: 'Your game will not be saved.',
     stay: 'Stay',
   },
+  onboarding: {
+    title: 'Pick a username',
+    helper: '3 to 16 letters or numbers. Other players will see it.',
+    placeholder: 'Your name',
+    start: 'Start playing',
+    errorShort: 'Use at least 3 characters.',
+    errorLong: 'Use 16 characters or fewer.',
+    errorChars: 'Use only letters and numbers.',
+    errorBlocked: 'That name is not allowed.',
+  },
   common: {
     leave: 'Leave',
     cancel: 'Cancel',
+    retry: 'Try again',
+    error: 'Something went wrong.',
   },
 };
