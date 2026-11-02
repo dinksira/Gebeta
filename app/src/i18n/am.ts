@@ -34,8 +34,20 @@ export default {
     leaveBodyLocal: 'ጨዋታዎ አይቀመጥም።',
     stay: 'ቆይ',
   },
+  onboarding: {
+    title: 'የተጠቃሚ ስም ይምረጡ',
+    helper: 'ከ3 እስከ 16 ፊደላት ወይም ቁጥሮች። ሌሎች ተጫዋቾች ያዩታል።',
+    placeholder: 'ስምዎ',
+    start: 'መጫወት ጀምር',
+    errorShort: 'ቢያንስ 3 ፊደላት ይጠቀሙ።',
+    errorLong: 'ከ16 ፊደላት አይበልጥ።',
+    errorChars: 'ፊደላትና ቁጥሮች ብቻ ይጠቀሙ።',
+    errorBlocked: 'ይህ ስም አይፈቀድም።',
+  },
   common: {
     leave: 'ውጣ',
     cancel: 'ሰርዝ',
+    retry: 'እንደገና ሞክር',
+    error: 'የተሳሳተ ነገር ተፈጥሯል።',
   },
 };
