@@ -29,3 +29,7 @@ pnpm-debug.log*
 # OS Files
 .DS_Store
 Thumbs.db
+
+# Documentation prompts
+docs/Phase_1_Game_Engine_Prompt.md
+docs/Phase_2_Board_UI_and_Local_Play_Prompt.md
