@@ -29,6 +29,8 @@ pnpm-debug.log*
 # OS Files
 .DS_Store
 Thumbs.db
+photo_*.jpg
+*.jpg
 
 # Documentation prompts
 docs/Phase_1_Game_Engine_Prompt.md
